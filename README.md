@@ -61,4 +61,4 @@ alert(n);
 受未声明的变量提升作用  变成全局变量
 
 
-<img src="/Assets/yuner.jpg" height="80"/>  
+<img src="/Assets/yuner.jpg" height="800"/>  
